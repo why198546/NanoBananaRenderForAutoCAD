@@ -1,0 +1,43 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Visual Studio files
+.vs/
+*.sln.docstates
+*.userprefs
+
+# Packages
+packages/
+*.nupkg
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# User-specific files
+*.log
+appsettings.local.json
+secrets.json
